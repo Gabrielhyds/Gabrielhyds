@@ -1,4 +1,4 @@
-### Hi! welcome, i'm Gabriel Yoshino 🖐
+### Olá! Eu sou o Gabriel Yoshino 🖐
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfHlsbPcM_9bDVDwLEkyKbA)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programador__jr/)
@@ -6,6 +6,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-yoshino-bb1960217/)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielhyds&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielhyds)](https://github.com/Gabrielhyds/github-readme-stats)
+
 
 ### – Tecnologias que eu uso.
 
@@ -16,5 +19,7 @@
      <img style="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python3">
      <img style="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Python3">
       <img style="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Python3">
-</div>
+</div><br/>
+
+Nunca é tarde para tentar o desconhecido.Nunca é tarde para ir mais além.
 
