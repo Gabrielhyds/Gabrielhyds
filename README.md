@@ -7,9 +7,6 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielhyds&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielhyds)](https://github.com/Gabrielhyds/github-readme-stats)
-
-
 ### – Tecnologias que eu uso.
 
 <div style="display:inline_block"><br/>
