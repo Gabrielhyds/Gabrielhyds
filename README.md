@@ -4,12 +4,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriel.yoshino.5/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-yoshino-bb1960217/)
 
-<div align="center">
-  <a href="https://github.com/Gabrielhyds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielhyds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielhyds&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ### – Tecnologias que eu uso.
 
 <div style="display: inline_block"><br>
@@ -23,5 +17,12 @@
 <hr/>
 </div>
 
+<div align="center">
+  <a href="https://github.com/Gabrielhyds">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielhyds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielhyds&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<hr/>
 
 Nunca é tarde para tentar o desconhecido.Nunca é tarde para ir mais além.
