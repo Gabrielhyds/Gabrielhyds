@@ -25,4 +25,4 @@
 
 <hr/>
 
-Nunca é tarde para tentar o desconhecido.Nunca é tarde para ir mais além.
+  <p style='color:red'>Nunca é tarde para tentar o desconhecido. Nunca é tarde para ir mais além.</p>
