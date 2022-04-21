@@ -1,4 +1,4 @@
-### Hello, i'm Gabriel Yoshino 🖐
+### olá seja muito bem-vindo(a) meu nome é Gabriel , sou dev web
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfHlsbPcM_9bDVDwLEkyKbA)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel_yoshino/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriel.yoshino.5/)
