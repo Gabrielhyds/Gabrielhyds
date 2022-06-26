@@ -23,3 +23,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel_yoshino/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriel.yoshino.5/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-yoshino-bb1960217/)
+
+  <div>
+  
+  ![Snake animation](https://github.com/Gabrielhyds/Gabrielhyds/blob/output/github-contribution-grid-snake.svg)
+ 
+  
+  </div>
