@@ -1,8 +1,10 @@
-### olá seja muito bem-vindo(a) meu nome é Gabriel , sou desenvolvedor web
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfHlsbPcM_9bDVDwLEkyKbA)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel_yoshino/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriel.yoshino.5/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-yoshino-bb1960217/)
+### hello, welcome, my name is Gabriel, I'm a web developer <hr/>
+
+<div align="center">
+  <a href="https://github.com/Gabrielhyds">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielhyds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielhyds&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ### – Tecnologias que eu uso.
 
@@ -17,12 +19,7 @@
 <hr/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Gabrielhyds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielhyds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielhyds&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<hr/>
-
-  <p style='color:red'>Nunca é tarde para tentar o desconhecido. Nunca é tarde para ir mais além.</p>
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfHlsbPcM_9bDVDwLEkyKbA)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel_yoshino/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriel.yoshino.5/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-yoshino-bb1960217/)
