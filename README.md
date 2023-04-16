@@ -26,6 +26,7 @@ Estou sempre aberto(a) a novas conexões e oportunidades de colaboração. Você
 
 - E-mail: [Gabrielyoshino003@gmail.com]
 - LinkedIn: <a href="https://www.linkedin.com/in/gabriel-yoshino-bb1960217/">Gabriel Yoshino</a>
+- Portfolio: <a href="https://gabrielhyds.github.io/Portfolio-V1/">Gabriel Yoshino V1</a>
 
 ## :pray: Agradecimentos
 
