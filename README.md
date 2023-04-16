@@ -1,19 +1,12 @@
-<img align="center" alt="Gabriel-HTML" height="500" width="1000" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
+# Bem-vindo(a) ao meu GitHub! :rocket:
 
-<h1>Hello, welcome to my profile</h1> 
+Olá! Eu sou GABRIEL, e este é o meu repositório no GitHub. Aqui você encontrará alguns dos meus projetos de programação, onde eu compartilho meu código para a comunidade de desenvolvedores.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel_yoshino/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriel.yoshino.5/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-yoshino-bb1960217/)
+## ℹ️ Sobre mim
 
-<div align="left">
-  <a href="https://github.com/Gabrielhyds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielhyds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielhyds&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+Sou um entusiasta da programação, apaixonado por tecnologia e sempre em busca de aprender coisas novas. Tenho experiência em:
 
-# Soft Skills
-<div align="left">
+</br><div align="left">
 	<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
 	<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
 	<img align="center" alt="BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
@@ -22,8 +15,23 @@
 	<img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
 	<img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 	<img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
- </div> 
+ </div><br/>
+
+
+Sempre busco criar soluções inovadoras e aplicar as melhores práticas de desenvolvimento.
+
+## :email: Contato
+
+Estou sempre aberto(a) a novas conexões e oportunidades de colaboração. Você pode entrar em contato comigo através do seguinte:
+
+- E-mail: [Gabrielyoshino003@gmail.com]
+- LinkedIn: <a href="https://www.linkedin.com/in/gabriel-yoshino-bb1960217/">Gabriel Yoshino</a>
+
+## :pray: Agradecimentos
+
+Agradeço a você por visitar meu GitHub e por conferir meus projetos. Sinta-se à vontade para explorar meus repositórios e fornecer feedback. Espero que você encontre algo útil ou inspirador aqui!
+
+Obrigado por sua visita! :smiley:
 	
 ![Snake animation](https://github.com/Gabrielhyds/Gabrielhyds/blob/output/github-contribution-grid-snake.svg)
  
-  
