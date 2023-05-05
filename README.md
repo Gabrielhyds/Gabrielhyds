@@ -1,38 +1,45 @@
-# Bem-vindo(a) ao meu GitHub! :rocket:
 
-Olá! Eu sou GABRIEL, e este é o meu repositório no GitHub. Aqui você encontrará alguns dos meus projetos de programação, onde eu compartilho meu código para a comunidade de desenvolvedores.
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/85001629/236578114-deb40dbf-eb87-43ca-a017-636bbc7229cb.png"/>
+<h1 align="left">Hi , I'm Gabriel</h1>
 
-## ℹ️ Sobre mim
+- 🔥 Desenvolvedor Web Júnior! 
 
-Sou um entusiasta da programação, apaixonado por tecnologia e sempre em busca de aprender coisas novas. Tenho experiência em:
+- 👨‍🎓 Técnico em desenvolvimento de sistemas
 
-</br><div align="left">
-	<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-	<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-	<img align="center" alt="BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-	<img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-	<img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-	<img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-	<img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
- </div><br/>
+- 📚 Bacharel Engenharia de Computação
 
+- 💬 Entusiasta da programação, sempre procurando novos desafios
 
-Sempre busco criar soluções inovadoras e aplicar as melhores práticas de desenvolvimento.
+<br><br>
 
-## :email: Contato
+## 🛠 &nbsp; Habilidades
 
-Estou sempre aberto(a) a novas conexões e oportunidades de colaboração. Você pode entrar em contato comigo através do seguinte:
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)
 
-- E-mail: [Gabrielyoshino003@gmail.com]
-- LinkedIn: <a href="https://www.linkedin.com/in/gabriel-yoshino-bb1960217/">Gabriel Yoshino</a>
-- Portfolio: <a href="https://gabrielhyds.github.io/Portfolio-V1/">Gabriel Yoshino V1</a>
+<br><br>
 
-## :pray: Agradecimentos
+## ⚙️ &nbsp;GitHub Analytics
 
-Agradeço a você por visitar meu GitHub e por conferir meus projetos. Sinta-se à vontade para explorar meus repositórios e fornecer feedback. Espero que você encontre algo útil ou inspirador aqui!
+<p align="center">
+<a href="https://github.com/Gabrielhyds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabrielhyds&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabrielhyds&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+</a>
+</p>
 
-Obrigado por sua visita! :smiley:
+<br><br>
+
+## 😜 &nbsp;Obrigado por sua visita!
 	
 ![Snake animation](https://github.com/Gabrielhyds/Gabrielhyds/blob/output/github-contribution-grid-snake.svg)
  
