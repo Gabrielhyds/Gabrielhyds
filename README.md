@@ -1,5 +1,5 @@
 
-<img align="right" height="550em" src="https://user-images.githubusercontent.com/85001629/236578114-deb40dbf-eb87-43ca-a017-636bbc7229cb.png"/>
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/85001629/236578114-deb40dbf-eb87-43ca-a017-636bbc7229cb.png"/>
 <h1 align="left">Hi , I'm Gabriel</h1>
 
 - 🔥 Desenvolvedor Web Júnior! 
