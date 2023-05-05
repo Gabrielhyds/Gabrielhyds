@@ -10,7 +10,7 @@
 
 - 💬 Entusiasta da programação, sempre procurando novos desafios
 
-<br><br>
+<br><br><br>
 
 ## 🛠 &nbsp; Habilidades
 
