@@ -37,7 +37,6 @@
 </a>
 </p>
 
-<br><br>
 
 ## 😜 &nbsp;Obrigado por sua visita!
 	
