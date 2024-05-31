@@ -2,7 +2,7 @@
 <img align="right"  height="550em" src="https://user-images.githubusercontent.com/85001629/236582252-12189a05-f4fe-45c6-8d3e-d2aeb8efd628.png"/>
 <h1 align="left">Hi , I'm Gabriel</h1>
 
-- 🔥 Desenvolvedor Web Júnior! 
+
 
 - 👨‍🎓 Técnico em desenvolvimento de sistemas
 
