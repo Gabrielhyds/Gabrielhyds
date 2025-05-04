@@ -1,5 +1,5 @@
 <!-- Imagem ilustrativa à direita -->
-<img align="right" height="550em" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Developer coding illustration"/>
+<img align="right" height="330em" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Developer coding illustration"/>
 
 <div id="toc">
   <ul style="list-style: none;">
