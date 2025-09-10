@@ -56,14 +56,6 @@
   </a>
 </p>
 
-<div id="toc">
-  <ul style="list-style: none;">
-    <summary>
-      <h1>🐍 &nbsp;Snake Game dos Commits</h1>
-    </summary>
-  </ul>
-</div>
-
 
 
 
