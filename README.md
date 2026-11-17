@@ -5,7 +5,8 @@
 ### Sobre mim
 
 - 💻 Desenvolvedor full-stack
-- 🚀 Construindo projetos com TypeScript, React e NestJS
+- 🎓 Tec. Desenvolvimento de Sistemas
+- 📚 8/10 - Engenharia da Computação
 - 🌱 Sempre aprendendo algo novo
 
 ### Tecnologias
